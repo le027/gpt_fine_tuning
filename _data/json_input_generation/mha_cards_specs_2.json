@@ -1,0 +1,352 @@
+[
+  {
+    "spec_id": "uraraka_zero_gravity",
+    "keywords": "zero gravity, levitation, mana ramp, tempo, student, hero",
+    "name": "Ochaco Uraraka, Zero Gravity Hero",
+    "cost": "{1}{W}{U}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "rare"
+  },
+  {
+    "spec_id": "uraraka_meteor_shower",
+    "keywords": "comet home run, bounce, temporary removal, gravity, combat trick",
+    "name": "Zero Gravity Meteor Shower",
+    "cost": "{1}{W}{R}",
+    "type": "Instant | Heroic Technique",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "kaminari_shock_charge",
+    "keywords": "electricity, overload, damage, risky power, student",
+    "name": "Denki Kaminari, Shock Charge",
+    "cost": "{1}{R}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "hawks_winged_savior",
+    "keywords": "flying, haste, feathers, scouting, double agent, pro hero",
+    "name": "Hawks, Winged Savior",
+    "cost": "{1}{R}{W}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "best_jeanist_fiber_master",
+    "keywords": "fibers, tap, control, restrain, fashion, pro hero",
+    "name": "Best Jeanist, Fiber Master",
+    "cost": "{2}{U}{W}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "all_for_one_archvillain",
+    "keywords": "steal quirks, control, hand disruption, ultimate villain",
+    "name": "All For One, Archvillain of Quirks",
+    "cost": "{3}{U}{B}",
+    "type": "Legendary Creature | Human Villain",
+    "rarity": "mythic"
+  },
+
+  {
+    "spec_id": "dabi_cremation_flames",
+    "keywords": "blue flames, damage, sacrifice, self-harm, villain",
+    "name": "Dabi, Cremation Flames",
+    "cost": "{1}{B}{R}",
+    "type": "Legendary Creature | Human Villain",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "toga_blood_curiosity",
+    "keywords": "blood, shapeshift, cloning, life drain, villain",
+    "name": "Himiko Toga, Blood Curiosity",
+    "cost": "{1}{B}{R}",
+    "type": "Legendary Creature | Human Villain",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "gran_torino_rocket_hero",
+    "keywords": "speed, aerial combat, retired hero, mobility, mentor",
+    "name": "Gran Torino, Retired Rocket Hero",
+    "cost": "{1}{W}{R}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "eri_vessel_of_rewind",
+    "keywords": "rewind, healing, time manipulation, fragile, power control",
+    "name": "Eri, Vessel of Rewind",
+    "cost": "{1}{W}{U}",
+    "type": "Legendary Creature | Human Child",
+    "rarity": "mythic"
+  },
+
+  {
+    "spec_id": "eraser_head_quirk_eraser",
+    "keywords": "silence abilities, stealth, teacher, capture scarf, control",
+    "name": "Eraser Head, Quirk Eraser",
+    "cost": "{1}{W}{B}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "mina_ashido_acidic_brawler",
+    "keywords": "acid, mobility, melting, evasive, flashy, student",
+    "name": "Mina Ashido, Acidic Brawler",
+    "cost": "{1}{R}{G}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "jiro_earphone_jack_hacker",
+    "keywords": "sound hacking, vibrations, espionage, student, support",
+    "name": "Kyoka Jiro, Earphone Jack Hacker",
+    "cost": "{1}{U}{R}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "koda_animal_communicator",
+    "keywords": "animals, communication, summon, gentle giant, support hero",
+    "name": "Koji Koda, Animal Communicator",
+    "cost": "{2}{G}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "common"
+  },
+
+  {
+    "spec_id": "mineta_sticky_troublemaker",
+    "keywords": "sticky balls, traps, nuisance, control, student",
+    "name": "Minoru Mineta, Sticky Troublemaker",
+    "cost": "{B}",
+    "type": "Legendary Creature | Human Student",
+    "rarity": "common"
+  },
+
+  {
+    "spec_id": "class_1a_team_up",
+    "keywords": "teamwork, tokens, anthem, many heroes, green-white",
+    "name": "Class 1-A Team-Up",
+    "cost": "{3}{W}{G}",
+    "type": "Sorcery | Heroic Rally",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "heroes_rematch",
+    "keywords": "rivalry, bakugo, deku, combat trick, fight again",
+    "name": "Heroes' Rematch at Ground Beta",
+    "cost": "{1}{R}{W}",
+    "type": "Instant | Battle Scene",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "mezo_shoji_silent_guardian",
+    "keywords": "dupli-arms, senses, defense, stealth, student",
+    "name": "Mezo Shoji, Silent Guardian",
+    "cost": "{1}{W}{U}",
+    "type": "Legendary Creature | Human Mutant Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "hanta_sero_tape_shooter",
+    "keywords": "tape, binding, positioning, mobility, student",
+    "name": "Hanta Sero, Tape Shooter",
+    "cost": "{1}{W}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "common"
+  },
+
+  {
+    "spec_id": "kendou_big_fist_captain",
+    "keywords": "size growth, leadership, class b, strength",
+    "name": "Itsuka Kendou, Big Fist Captain",
+    "cost": "{2}{G}{W}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "tetsutetsu_steel_body",
+    "keywords": "steel, durability, mirror kirishima, class b",
+    "name": "Tetsutetsu Tetsutetsu, Steel Body",
+    "cost": "{2}{R}{W}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "shinso_brainwashing_apprentice",
+    "keywords": "brainwashing, control, mind tricks, trainee",
+    "name": "Hitoshi Shinso, Brainwashing Apprentice",
+    "cost": "{2}{U}{B}",
+    "type": "Legendary Creature | Human Warlock",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "la_brava_devotion_hack",
+    "keywords": "hacking, boost, duo synergy",
+    "name": "La Brava's Devotion Hack",
+    "cost": "{1}{R}{U}",
+    "type": "Instant",
+    "rarity": "uncommon"
+  },
+  
+  {
+    "spec_id": "twice_double_trouble",
+    "keywords": "clones, token creation, chaos, villain",
+    "name": "Twice, Double Trouble",
+    "cost": "{1}{B}{R}",
+    "type": "Legendary Creature | Human Villain",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "spinner_fanatic_blade",
+    "keywords": "blades, ideology, mutant, villain",
+    "name": "Spinner, Fanatic Blade",
+    "cost": "{1}{G}{B}",
+    "type": "Legendary Creature | Lizard Villain",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "gigantomachia_loyal_titan",
+    "keywords": "giant, loyalty, endurance, unstoppable, titan",
+    "name": "Gigantomachia, Loyal Titan",
+    "cost": "{5}{G}{B}",
+    "type": "Legendary Creature | Giant Villain",
+    "rarity": "mythic"
+  },
+
+  {
+    "spec_id": "high_end_nomu_strike",
+    "keywords": "high-end nomu, regeneration, elite biotech",
+    "name": "High-End Nomu Strike",
+    "cost": "{3}{B}{R}",
+    "type": "Sorcery",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "ua_dormitory_bonds",
+    "keywords": "friendship, resting, scry, unity",
+    "name": "U.A. Dormitory Bonds",
+    "cost": "{1}{W}{G}",
+    "type": "Enchantment",
+    "rarity": "common"
+  },
+
+  {
+    "spec_id": "float_aerial_control",
+    "keywords": "levitation, mobility, aerial mastery",
+    "name": "Float, Aerial Control",
+    "cost": "{1}{W}{U}",
+    "type": "Sorcery | Quirk Technique",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "midnight_r_rated_hero",
+    "keywords": "sleep gas, charm, crowd control, pro hero",
+    "name": "Midnight, R-Rated Hero",
+    "cost": "{1}{U}{B}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "cementoss_wall_shaper",
+    "keywords": "cement, barriers, fortification, defense",
+    "name": "Cementoss, Wall Shaper",
+    "cost": "{2}{W}{U}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "mount_lady_gigantification",
+    "keywords": "gigantification, growth, crowd control",
+    "name": "Mount Lady, Gigantification Star",
+    "cost": "{3}{W}{R}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "fatgum_absorption_mode",
+    "keywords": "fat absorption, counter-attack, defense",
+    "name": "Fatgum, Absorption Mode",
+    "cost": "{2}{W}{G}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "kuroiro_darkness_merge",
+    "keywords": "merging, black surfaces, stealth, class b",
+    "name": "Shihai Kuroiro, Darkness Merge",
+    "cost": "{1}{B}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "common"
+  },
+
+  {
+    "spec_id": "pony_tsunotori_horn_charge",
+    "keywords": "horns, projectile control, class b",
+    "name": "Pony Tsunotori, Horn Charge",
+    "cost": "{1}{W}{G}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "uncommon"
+  },
+
+  {
+    "spec_id": "ua_training_arc",
+    "keywords": "training, growth, leveling, saga",
+    "name": "U.A. Training Arc",
+    "cost": "{2}{W}{G}",
+    "type": "Enchantment — Saga",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "beast_hero_wild_walrus",
+    "keywords": "walrus, strength, cold resistance",
+    "name": "Wild Walrus, Beast Hero",
+    "cost": "{3}{G}{U}",
+    "type": "Legendary Creature | Beast Hero",
+    "rarity": "rare"
+  },
+
+  {
+    "spec_id": "burnin_fire_sidekick",
+    "keywords": "flames, sidekick, endeavor agency",
+    "name": "Burnin, Fire Sidekick",
+    "cost": "{1}{R}{W}",
+    "type": "Legendary Creature | Human Hero",
+    "rarity": "uncommon"
+  },
+  
+  {
+    "spec_id": "manual_water_hero",
+    "keywords": "water control, urban rescue, pro hero",
+    "name": "Manual, Water Hero",
+    "cost": "{1}{U}{W}",
+    "type": "Legendary Creature | Human Pro Hero",
+    "rarity": "uncommon"
+  }
+
+]

@@ -1,0 +1,1211 @@
+[
+  {
+    "spec_id": "deku_legendary",
+    "card_fields": {
+      "name": "Izuku Midoriya, Inheritor of One For All",
+      "cost": "{2}{G}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "mythic",
+      "color_identity": "GW",
+      "text": "Whenever Izuku Midoriya attacks, put a +1/+1 counter on it for each creature you control.\\nWhenever Izuku Midoriya attacks for the first time each turn, you may pay {1}{G}{W}. When you do, return target creature card from your graveyard to the battlefield.",
+      "pt": "5/5"
+    }
+  },
+  {
+    "spec_id": "bakugo_legendary",
+    "card_fields": {
+      "name": "Katsuki Bakugo, Blazing Challenger",
+      "cost": "{1}{R}{R}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "mythic",
+      "color_identity": "R",
+      "text": "Haste\\nWhenever you attack, draw a card, then discard a card.\\nWhenever Katsuki Bakugo deals combat damage to a player, put two +1/+1 counters on it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.",
+      "pt": "2/2"
+    }
+  },
+  {
+    "spec_id": "deku_full_cowl",
+    "card_fields": {
+      "name": "Izuku Midoriya, Full Cowl Trainee",
+      "cost": "{1}{G}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "At the beginning of combat on your turn, create a 2/2 green and white Spirit creature token with vigilance and haste.\\nWhenever Izuku Midoriya attacks, another target attacking creature you control gets +X/+X until end of turn, where X is the number of Spirits you control.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "deku_smash_style",
+    "card_fields": {
+      "name": "Izuku Midoriya, Smash Style",
+      "cost": "{3}{G}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)\\nWhenever Izuku Midoriya attacks, put a +1/+1 counter on each other attacking creature.",
+      "pt": "1/2"
+    }
+  },
+  {
+    "spec_id": "all_might_symbol_of_peace",
+    "card_fields": {
+      "name": "All Might, Symbol of Peace",
+      "cost": "{3}{W}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "mythic",
+      "color_identity": "W",
+      "text": "If it's neither day nor night, it becomes day as All Might enters.\\nWhenever day becomes night or night becomes day, put a +1/+1 counter on All Might. Then if it's night, All Might deals damage equal to its power to target creature or planeswalker an opponent controls.",
+      "pt": "2/4"
+    }
+  },
+  {
+    "spec_id": "all_might_last_stand",
+    "card_fields": {
+      "name": "All Might's Last Stand",
+      "cost": "{2}{W}{R}",
+      "type": "Instant | Heroic Technique",
+      "rarity": "rare",
+      "color_identity": "RW",
+      "text": "All Might's Last Stand deals 5 damage to target creature, planeswalker, or battle. Then planeswalk. (You can't be dealt damage by creatures with power 2 or less this turn.)\nThis spell costs {2} less to cast for each permanent your opponents control."
+    },
+    "problems": "Presenta due tag <|endoftext|> sll'interno di 'text' ",
+    "fixes": "Ho rimosso i tag <|endoftext|> all'interno del campo 'text' "
+  },
+  {
+    "spec_id": "all_might_young_toshinori",
+    "card_fields": {
+      "name": "Toshinori Yagi, Aspiring Hero",
+      "cost": "{1}{W}",
+      "type": "Legendary Creature | Human Student",
+      "rarity": "rare",
+      "color_identity": "W",
+      "text": "When Toshinori Yagi enters, create two 1/1 colorless Hero creature tokens with \"This token can't block.\"\\n{1}{W}, {T}, Sacrifice a Hero: Each opponent loses 1 life and you gain 1 life.",
+      "pt": "1/4"
+    }
+  },
+  {
+    "spec_id": "todoroki_half_cold_half_hot",
+    "card_fields": {
+      "name": "Shoto Todoroki, Half-Cold Half-Hot",
+      "cost": "{1}{U}{R}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "mythic",
+      "color_identity": "RU",
+      "text": "You may activate abilities of Shoto Todoroki as though those abilities had flash.\\nWhenever Shoto Todoroki becomes blocked, it deals damage to target creature that player controls equal to the number of instant and sorcery cards in your graveyard.",
+      "pt": "4/3"
+    }
+  },
+  {
+    "spec_id": "iida_engine_of_justice",
+    "card_fields": {
+      "name": "Tenya Iida, Engine of Justice",
+      "cost": "{1}{W}{U}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "UW",
+      "text": "{T}: Prevent the next 1 damage that would be dealt to target creature you control this turn.\\nWhenever one or more creatures you control deal combat damage to a player, draw a card.",
+      "pt": "2/2"
+    }
+  },
+  {
+    "spec_id": "kirishima_hardening_hero",
+    "card_fields": {
+      "name": "Eijiro Kirishima, Red Riot",
+      "cost": "{1}{R}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "uncommon",
+      "color_identity": "RW",
+      "text": "Menace\\nWhenever a modified creature you control attacks, it gains trample until end of turn. (Equipment, Auras you control, and counters are modifications.)\\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "tsuyu_rainy_hero",
+    "card_fields": {
+      "name": "Tsuyu Asui, Rainy Hero",
+      "cost": "{1}{G}{U}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "uncommon",
+      "color_identity": "GU",
+      "text": "{2}, {T}: Tap target creature with power less than or equal to the number of permanents target player controls. If that creature is untapped, draw a card.",
+      "pt": "1/3"
+    }
+  },
+  {
+    "spec_id": "yaoyorozu_creation",
+    "card_fields": {
+      "name": "Momo Yaoyorozu, Creative Creation",
+      "cost": "{2}{W}{U}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "UW",
+      "text": "When Momo Yaoyorozu enters, search your library for an artifact or artifact card, reveal it, put it into your hand, then shuffle.\\n{2}{W}{U}, {T}, Sacrifice an artifact: Search your library for an artifact card, reveal it, put it into your hand, then shuffle.",
+      "pt": "1/3"
+    }
+  },
+  {
+    "spec_id": "jiro_sonic_resonance",
+    "card_fields": {
+      "name": "Kyoka Jiro, Sonic Resonance",
+      "cost": "{1}{U}{R}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "uncommon",
+      "color_identity": "RU",
+      "text": "{T}: The next instant or sorcery spell you cast this turn has improvise. (Your artifacts can help cast that spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)",
+      "pt": "1/3"
+    }
+  },
+  {
+    "spec_id": "tokoyami_dark_shadow",
+    "card_fields": {
+      "name": "Fumikage Tokoyami, Dark Shadow Wielder",
+      "cost": "{2}{B}",
+      "type": "Legendary Creature | Bird Hero",
+      "rarity": "rare",
+      "color_identity": "B",
+      "text": "Flying\\nIf a creature you control entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "pt": "2/4"
+    }
+  },
+  {
+    "spec_id": "mineta_grape_trap",
+    "card_fields": {
+      "name": "Minoru Mineta, Grape Trap Specialist",
+      "cost": "{1}{B}",
+      "type": "Legendary Creature | Human Student",
+      "rarity": "common",
+      "color_identity": "B",
+      "text": "When Minoru Mineta enters, target opponent loses 1 life and you gain 1 life.",
+      "pt": "1/2"
+    }
+  },
+  {
+    "spec_id": "aizawa_eraserhead",
+    "card_fields": {
+      "name": "Shota Aizawa, Eraser Head",
+      "cost": "{1}{W}{B}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "BW",
+      "text": "Flash\\nWhen Shota Aizawa enters, you may search your library for an Aura card, reveal that card, put it into your hand, then shuffle.\\nWhenever Shota Aizawa attacks, put a shield counter on each other attacking creature.",
+      "pt": "2/4"
+    }
+  },
+  {
+    "spec_id": "shigaraki_decay_of_society",
+    "card_fields": {
+      "name": "Tomura Shigaraki, Decay of Society",
+      "cost": "{2}{B}{B}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "mythic",
+      "color_identity": "B",
+      "text": "At the beginning of your end step, each opponent discards a card, then sacrifices a creature of their choice. Each opponent who can't loses 4 life and you draw a card.\\nWhenever one or more creatures you control die, if one or more of them entered from a graveyard or was cast from a graveyard, return this card from your graveyard to your hand.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "stain_hero_killer",
+    "card_fields": {
+      "name": "Stain, Hero Killer",
+      "cost": "{1}{B}{R}",
+      "type": "Legendary Creature | Human Assassin",
+      "rarity": "rare",
+      "color_identity": "BR",
+      "text": "First strike\\nWhenever Stain deals combat damage to a player, goad target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)\\nWhenever a goaded creature attacks one of your opponents, it gets +X/+0 until end of turn, where X is the number of Goaded creatures that attacking that opponent.",
+      "pt": "1/3"
+    }
+  },
+  {
+    "spec_id": "sir_nighteye_future_sight",
+    "card_fields": {
+      "name": "Sir Nighteye, Future Sight Strategist",
+      "cost": "{2}{U}{W}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "UW",
+      "text": "When Sir Nighteye enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\\nWhenever you attack, draw a card, then draw another card if you control a legendary creature.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "mirko_rabbit_frontline",
+    "card_fields": {
+      "name": "Mirko, Rabbit of the Front Line",
+      "cost": "{2}{R}{W}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "mythic",
+      "color_identity": "RW",
+      "text": "Haste\\nWhenever you cast a spell during combat, put a +1/+1 counter on target creature you control. Then if it's the first combat phase of the turn, there is an additional combat phase after this phase.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "ojiro_tailed_martial_artist",
+    "card_fields": {
+      "name": "Mashirao Ojiro, Tailed Martial Artist",
+      "cost": "{1}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "common",
+      "color_identity": "W",
+      "text": "{T}: Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)",
+      "pt": "1/2"
+    }
+  },
+  {
+    "spec_id": "aoyama_shining_naval_laser",
+    "card_fields": {
+      "name": "Yuga Aoyama, Shining Naval Laser",
+      "cost": "{1}{U}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "uncommon",
+      "color_identity": "UW",
+      "text": "Flying, ward {1}\\nWhenever you cast a spell with mana value equal to the number of counters on it, draw a card.",
+      "pt": "2/4"
+    }
+  },
+  {
+    "spec_id": "hagakure_invisible_trickster",
+    "card_fields": {
+      "name": "Toru Hagakure, Invisible Trickster",
+      "cost": "{1}{U}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "common",
+      "color_identity": "U",
+      "text": "{T}: Target creature you control can't be blocked this turn.\\n{2}{U}: Target creature can't be blocked this turn.",
+      "pt": "1/2"
+    }
+  },
+  {
+    "spec_id": "overhaul_yakuza_boss",
+    "card_fields": {
+      "name": "Overhaul, Shie Hassaikai Boss",
+      "cost": "{2}{B}{W}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "rare",
+      "color_identity": "BW",
+      "text": "Whenever a Villain you control attacks, create a 1/1 white and black Villain creature token.\\nWhen a Villain you control dies, target opponent may draw a card.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "league_of_villains_assembly",
+    "card_fields": {
+      "name": "League of Villains Assembly",
+      "cost": "{3}{B}{R}",
+      "type": "Enchantment | Villain Plot",
+      "rarity": "rare",
+      "color_identity": "BR",
+      "text": "When this enchantment enters, create a number of Treasure tokens equal to the number of Villains you control.\\nPlot {1}{B}{R} (You may pay {1}{B}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    }
+  },
+  {
+    "spec_id": "nomu_bioweapon",
+    "card_fields": {
+      "name": "Nomu, Engineered Bioweapon",
+      "cost": "{3}{B}{R}",
+      "type": "Creature | Mutant Monster",
+      "rarity": "uncommon",
+      "color_identity": "BR",
+      "text": "Trample\\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\\nThis creature enters with a +1/+1 counter on it for each other nontoken creature that died under your control this turn.",
+      "pt": "5/5"
+    }
+  },
+  {
+    "spec_id": "ua_high_school_training",
+    "card_fields": {
+      "name": "U.A. High School Training Program",
+      "cost": "{2}{W}{U}",
+      "type": "Enchantment | Hero Training",
+      "rarity": "uncommon",
+      "color_identity": "UW",
+      "text": "When this enchantment enters, create a 1/1 white Ally creature token with flying.\\nWhenever one or more creatures you control attack, draw a card. This ability triggers only once each turn."
+    }
+  },
+  {
+    "spec_id": "sports_festival_showdown",
+    "card_fields": {
+      "name": "U.A. Sports Festival Showdown",
+      "cost": "{2}{R}{W}",
+      "type": "Sorcery | Heroic Event",
+      "rarity": "uncommon",
+      "color_identity": "RW",
+      "text": "Choose one —\\n• U.A. Sports Festival Showdown deals 4 damage to target creature.\\n• Each player may put a creature card from their hand onto the battlefield.\\n• Draw a card, then discard a card."
+    }
+  },
+  {
+    "spec_id": "hero_license_exam",
+    "card_fields": {
+      "name": "Provisional Hero License Exam",
+      "cost": "{2}{W}{U}",
+      "type": "Sorcery | Heroic Trial",
+      "rarity": "uncommon",
+      "color_identity": "UW",
+      "text": "Put target nonland permanent into its owner's library just beneath the top two cards of that library.\\nA deck can have any number of cards named Provisional Hero License Exam."
+    }
+  },
+  {
+    "spec_id": "usj_disaster_training",
+    "card_fields": {
+      "name": "USJ Disaster Training Incident",
+      "cost": "{3}{G}{U}",
+      "type": "Enchantment | Heroic Event",
+      "rarity": "rare",
+      "color_identity": "GU",
+      "text": "At the beginning of your upkeep, create a 1/1 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of attacking creatures. Then create a 2/2 green and blue Elemental creature token with trample. Then if X is 3 or more, draw three cards."
+    }
+  },
+  {
+    "spec_id": "shie_hassaikai_operation",
+    "card_fields": {
+      "name": "Shie Hassaikai Operation",
+      "cost": "{2}{B}{W}",
+      "type": "Enchantment | Villain Plot",
+      "rarity": "uncommon",
+      "color_identity": "BW",
+      "text": "At the beginning of your end step, each player exiles the top card of their library.\\nAt the beginning of your end step, if no creatures are on the battlefield, sacrifice this enchantment.\\nWhenever a creature card is exiled from a library, create a 2/2 black Zombie creature token with decayed."
+    }
+  },
+  {
+    "spec_id": "plus_ultra_moment",
+    "card_fields": {
+      "name": "Plus Ultra! Moment of Bravery",
+      "cost": "{1}{W}",
+      "type": "Instant | Heroic Technique",
+      "rarity": "common",
+      "color_identity": "W",
+      "text": "Target creature gets +2/+2 until end of turn. If this spell was foretold, that creature gets an additional +4/+4 until end of turn.\\nForetell {3}{W}"
+    },
+    "problems": "It had <|endoftext|> tags inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  },
+  {
+    "spec_id": "one_for_all_transmission",
+    "card_fields": {
+      "name": "One For All Transmission",
+      "cost": "{2}{G}{W}",
+      "type": "Sorcery | Heroic Legacy",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "Until your next turn, all permanents you control have shroud. (They can't be the targets of spells or abilities.)\\When this spell is put into a graveyard from anywhere, shuffle it into its owner's library."
+    },
+    "problems": "It had <|endoftext|> tags inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  },
+  {
+    "spec_id": "quirks_analyzed",
+    "card_fields": {
+      "name": "Deku's Quirk Analysis Notebook",
+      "cost": "{U}",
+      "type": "Instant | Study",
+      "rarity": "common",
+      "color_identity": "U",
+      "text": "Draw a card.\\nInvestigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    }
+  },
+  {
+    "spec_id": "villains_infiltration",
+    "card_fields": {
+      "name": "League of Villains Infiltration",
+      "cost": "{1}{U}{B}",
+      "type": "Instant | Covert Operation",
+      "rarity": "uncommon",
+      "color_identity": "BU",
+      "text": "As an additional cost to cast this spell, you may exile a black card from your hand.\\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+    }
+  },
+  {
+    "spec_id": "monoma_copycat_schemer",
+    "card_fields": {
+      "name": "Neito Monoma, Copycat Schemer",
+      "cost": "{1}{U}{B}",
+      "type": "Legendary Creature | Human Wizard",
+      "rarity": "rare",
+      "color_identity": "BU",
+      "text": "At the beginning of your upkeep, copy target creature spell you control. (The copy becomes a token.)\\nWhenever a copy you control becomes the target of a spell or ability, counter that spell or ability unless its controller pays {2}.",
+      "pt": "2/2"
+    }
+  },
+  {
+    "spec_id": "mei_hatsume_support_inventor",
+    "card_fields": {
+      "name": "Mei Hatsume, Support Inventor",
+      "cost": "{1}{U}{R}",
+      "type": "Legendary Creature | Human Artificer",
+      "rarity": "rare",
+      "color_identity": "RU",
+      "text": "{1}, {T}: Improvise. (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\\nWhenever you cast a spell that targets one or more artifacts, create a 1/1 blue or red Artificer creature token with menace.\\n{2}, Sacrifice an artifact: Draw a card.",
+      "pt": "2/4"
+    }
+  },
+  {
+    "spec_id": "support_gear_toolkit",
+    "card_fields": {
+      "name": "Support Gear Toolkit",
+      "cost": "{2}",
+      "type": "Artifact",
+      "rarity": "uncommon",
+      "color_identity": "",
+      "text": "As this artifact enters, choose a creature type.\\nCreatures you control of the chosen type get +1/+1.\\nWhenever you cast a creature spell of the chosen type, put a +1/+1 counter on target creature."
+    }
+  },
+  {
+    "spec_id": "police_task_force_alliance",
+    "card_fields": {
+      "name": "Police Task Force Alliance",
+      "cost": "{1}{W}{U}",
+      "type": "Enchantment",
+      "rarity": "uncommon",
+      "color_identity": "UW",
+      "text": "When this enchantment enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\\nWhenever one or more artifacts you control enter, you gain 1 life for each artifact you control."
+    }
+  },
+  {
+    "spec_id": "gentle_criminal_elastic_walls",
+    "card_fields": {
+      "name": "Elastic Walls Technique",
+      "cost": "{1}{U}",
+      "type": "Instant",
+      "rarity": "common",
+      "color_identity": "U",
+      "text": "You may tap or untap target creature. That creature doesn't untap during its controller's next untap step.\\nDraw a card."
+    }
+  },
+  {
+    "spec_id": "re_destros_regime",
+    "card_fields": {
+      "name": "Re-Destro, Regime of Liberation",
+      "cost": "{2}{B}{R}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "mythic",
+      "color_identity": "BR",
+      "text": "Menace\\nAt the beginning of your upkeep, discard your hand, then draw seven cards.\\n{3}{B}{R}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. (If a creature with a finality counter on it would die, exile it instead.)",
+      "pt": "5/3"
+    }
+  },
+  {
+    "spec_id": "meta_liberation_call",
+    "card_fields": {
+      "name": "Meta Liberation Call",
+      "cost": "{2}{R}{B}",
+      "type": "Enchantment | Faction Anthem",
+      "rarity": "rare",
+      "color_identity": "BR",
+      "text": "At the beginning of each player's upkeep, that player chooses a creature they control. They put a choice of a +1/+1 counter, a trample counter, or a haste counter on that creature. They sacrifice those creatures at the beginning of the next end step.\\nEach creature you control with a choice of a counter or haste counters on it is a creature in addition to its other types."
+    }
+  },
+  {
+    "spec_id": "muscular_berserk_mutant",
+    "card_fields": {
+      "name": "Muscular, Rampaging Mutant",
+      "cost": "{3}{R}{G}",
+      "type": "Legendary Creature | Mutant Villain",
+      "rarity": "rare",
+      "color_identity": "GR",
+      "text": "This spell costs {3} less to cast for each creature card in your graveyard.\\nTrample\\nWhenever Muscular attacks, it gets +2/+2 until end of turn for each other attacking creature.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "mr_compress_the_showman",
+    "card_fields": {
+      "name": "Mr. Compress, The Showman",
+      "cost": "{2}{U}{B}",
+      "type": "Legendary Creature | Human Rogue",
+      "rarity": "rare",
+      "color_identity": "BU",
+      "text": "{T}: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.\\nYou may cast spells from among cards you've discarded this turn from among cards you own in exile or in your graveyard, and mana of any type can be spent to cast those spells.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "hero_public_safety_commission",
+    "card_fields": {
+      "name": "Hero Public Safety Commission",
+      "cost": "{2}{W}{U}",
+      "type": "Enchantment",
+      "rarity": "rare",
+      "color_identity": "UW",
+      "text": "When this enchantment enters, create a Hero Role token attached to up to one target creature. (Enchanted creature has \"Whenever this creature attacks, put a +1/+1 counter on it.\")\\nWhenever you attack, exile target instant or sorcery card with mana value less than or equal to the number of Hero Role tokens you control from your graveyard. Create a token that's a copy of that card, except it's a 3/3 white and blue Spirit creature in addition to its other types."
+    }
+  },
+  {
+    "spec_id": "quirk_rejection_barrier",
+    "card_fields": {
+      "name": "Quirk Rejection Barrier",
+      "cost": "{1}{W}{B}",
+      "type": "Instant",
+      "rarity": "uncommon",
+      "color_identity": "BW",
+      "text": "Cast this spell only during the declare blockers step.\\nRemove all blockers from all permanents you control.\\nPrevent all damage that would be dealt to you and creatures you control this turn.\nWhen this card is put into your graveyard from anywhere, you may put it into your library third from the top."
+    },
+    "problems": "It had <|endoftext|> tags inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  },
+  {
+    "spec_id": "blackwhip_manifestation",
+    "card_fields": {
+      "name": "Blackwhip Manifestation",
+      "cost": "{1}{B}{G}",
+      "type": "Instant | Quirk Technique",
+      "rarity": "rare",
+      "color_identity": "BG",
+      "text": "Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)\\nExile target creature or planeswalker."
+    }
+  },
+  {
+    "spec_id": "smokescreen_cover",
+    "card_fields": {
+      "name": "Smokescreen Cover",
+      "cost": "{U}",
+      "type": "Instant",
+      "rarity": "common",
+      "color_identity": "U",
+      "text": "Create a 1/1 white Rabbit creature token, then surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)"
+    }
+  },
+  {
+    "spec_id": "thirteen_blackhole_rescue",
+    "card_fields": {
+      "name": "Thirteen, Blackhole Rescue Hero",
+      "cost": "{2}{U}{G}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "GU",
+      "text": "Blackhole, Rescue, spatial manipulation has \"Whenever you cast a spell, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card for as long as you control this ability.\"\\nAt the beginning of each combat, you may play a land or cast a spell from among cards exiled with this ability without paying its mana cost.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "gran_torino_speed_burst",
+    "card_fields": {
+      "name": "Gran Torino's Speed Burst",
+      "cost": "{R}",
+      "type": "Instant",
+      "rarity": "common",
+      "color_identity": "R",
+      "text": "Choose one or both —\\n• Aerial dodge deals 2 damage to target creature with flying.\\n• Gran Torino's Speed Burst deals 4 damage to target creature without flying."
+    }
+  },
+  {
+    "spec_id": "endeavor_flame_command",
+    "card_fields": {
+      "name": "Flame Command",
+      "cost": "{2}{R}{R}",
+      "type": "Sorcery",
+      "rarity": "rare",
+      "color_identity": "R",
+      "text": "Choose two —\\n• Flame Command deals 3 damage to target creature.\\n• Destroy target artifact.\\n• Creatures without flying can't block this turn."
+    },
+    "problems": "It had <|endoftext|> tags inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  },
+  {
+    "spec_id": "wash_clean_wave",
+    "card_fields": {
+      "name": "Wash, Clean Wave Hero",
+      "cost": "{1}{W}{U}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "uncommon",
+      "color_identity": "UW",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\\nFlying\\nWhenever Wash deals combat damage to a player, create a 1/1 blue and red Elemental creature token with vigilance and \"Whenever this token becomes tapped, tap target creature an opponent controls.\"",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "kamui_woods_binding_roots",
+    "card_fields": {
+      "name": "Kamui Woods, Binding Roots",
+      "cost": "{2}{G}{W}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "Kamui Woods enters with a number of +1/+1 counters on it equal to the number of lands you control.\\nWhenever Kamui Woods becomes blocked, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card.",
+      "pt": "2/1"
+    }
+  },
+  {
+    "spec_id": "snipe_precision_shot",
+    "card_fields": {
+      "name": "Snipe, Precision Shot Hero",
+      "cost": "{2}{R}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "uncommon",
+      "color_identity": "R",
+      "text": "Whenever Snipe deals combat damage to a player, it deals that much damage to any target that didn't attack you or a planeswalker you controlled during your last turn.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "kann_sen_shock_absorber",
+    "card_fields": {
+      "name": "Kanno Sen, Shock Absorber",
+      "cost": "{2}{G}",
+      "type": "Creature | Human Hero",
+      "rarity": "common",
+      "color_identity": "G",
+      "text": "When Kanno Sen enters, put a +1/+1 counter on it.\\nWhenever you put one or more counters on a creature, put a +1/+1 counter on this creature.",
+      "pt": "2/3"
+    }
+  },
+  {
+    "spec_id": "overhaul_reconstruction_field",
+    "card_fields": {
+      "name": "Reconstruction Field",
+      "cost": "{1}{W}{B}",
+      "type": "Enchantment",
+      "rarity": "rare",
+      "color_identity": "BW",
+      "text": "At the beginning of your upkeep, destroy target artifact or creature. If a permanent destroyed this way would be put into a graveyard, exile it instead."
+    }
+  },
+  {
+    "spec_id": "villain_ambush_plot",
+    "card_fields": {
+      "name": "Villain Ambush Plot",
+      "cost": "{1}{B}{R}",
+      "type": "Instant",
+      "rarity": "uncommon",
+      "color_identity": "BR",
+      "text": "Cast this spell only during combat on an opponent's turn.\\nTarget creature you control deals damage equal to its power to target creature an opponent controls. If that creature would die this turn, exile it instead.\\n"
+    },
+    "problems": "It had <|endoftext|> tags inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  },
+  {
+    "spec_id": "sludge_villain_engulf",
+    "card_fields": {
+      "name": "Sludge Villain, Engulfing Menace",
+      "cost": "{2}{B}{G}",
+      "type": "Legendary Creature | Ooze Villain",
+      "rarity": "rare",
+      "color_identity": "BG",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\\nSludge Villain's power is equal to the sacrificed creature's power and its toughness is equal to that creature's toughness.\\nWhen Sludge Villain enters, destroy target creature an opponent controls.",
+      "pt": "*/*"
+    }
+  },
+  {
+    "spec_id": "uraraka_zero_gravity",
+    "card_fields": {
+      "name": "Ochaco Uraraka, Zero Gravity Hero",
+      "cost": "{1}{W}{U}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "UW",
+      "text": "Flying\\nWhenever one or more permanents you control enter, put a +1/+1 counter on each of them, then draw a card. This ability triggers only once each turn.",
+      "pt": "3/4"
+    }
+  },
+  {
+    "spec_id": "uraraka_meteor_shower",
+    "card_fields": {
+      "name": "Zero Gravity Meteor Shower",
+      "cost": "{1}{W}{R}",
+      "type": "Instant | Heroic Technique",
+      "rarity": "uncommon",
+      "color_identity": "RW",
+      "text": "All creatures get +1/+0 until end of turn.\\nZero Gravity Meteor Shower deals 3 damage to target creature."
+    }
+  },
+  {
+    "spec_id": "hawks_winged_savior",
+    "card_fields": {
+      "name": "Hawks, Winged Savior",
+      "cost": "{1}{R}{W}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "RW",
+      "text": "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)\\n{T}: Create a 1/1 white Bird creature token with flying.\\n{T}, Sacrifice a Bird: Target creature gains flying until end of turn.",
+      "pt": "2/3"
+    }
+  },
+  {
+    "spec_id": "all_for_one_archvillain",
+    "card_fields": {
+      "name": "All For One, Archvillain of Quirks",
+      "cost": "{3}{U}{B}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "mythic",
+      "color_identity": "BU",
+      "text": "At the beginning of your end step, exile up to one target nonland permanent that's one or more Villains. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.\\nIf a spell cast this way would be put into a graveyard, exile it instead.",
+      "pt": "6/4"
+    }
+  },
+  {
+    "spec_id": "dabi_cremation_flames",
+    "card_fields": {
+      "name": "Dabi, Cremation Flames",
+      "cost": "{1}{B}{R}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "rare",
+      "color_identity": "BR",
+      "text": "Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of that creature, except it's a 1/1 black and red Elemental creature in addition to its other types.\\n{1}{B}{R}, Discard a card: Dabi gains indestructible until end of turn. Tap it.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "toga_blood_curiosity",
+    "card_fields": {
+      "name": "Himiko Toga, Blood Curiosity",
+      "cost": "{1}{B}{R}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "rare",
+      "color_identity": "BR",
+      "text": "Trample, haste\\nWhenever one or more Villains you control deal combat damage to a player, create a token that's a copy of one of those Villains. Those tokens gain haste. Sacrifice them at the beginning of the next end step.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "gran_torino_rocket_hero",
+    "card_fields": {
+      "name": "Gran Torino, Retired Rocket Hero",
+      "cost": "{1}{W}{R}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "RW",
+      "text": "Flying, first strike, trample, haste\\nWhenever Gran Torino attacks, look at the top five cards of your library. You may reveal a card with a flying ability from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+      "pt": "4/3"
+    }
+  },
+  {
+    "spec_id": "eri_vessel_of_rewind",
+    "card_fields": {
+      "name": "Eri, Vessel of Rewind",
+      "cost": "{1}{W}{U}",
+      "type": "Legendary Creature | Human Child",
+      "rarity": "mythic",
+      "color_identity": "UW",
+      "text": "Vigilance, lifelink\\nWhen Eri enters, for each player, choose up to one target artifact or creature that player controls. Return those permanents to their owners' hands.\\nWhenever one or more nontoken permanents are returned to their owners' hands from the battlefield, draw a card.",
+      "pt": "3/2"
+    }
+  },
+  {
+    "spec_id": "eraser_head_quirk_eraser",
+    "card_fields": {
+      "name": "Eraser Head, Quirk Eraser",
+      "cost": "{1}{W}{B}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "BW",
+      "text": "{1}, {T}: Target creature blocks target creature this turn if able.\\n{1}, {T}: Exile target card from a graveyard. If it was a permanent card, create a token that's a copy of it, except it's a 1/1 white Human Soldier creature in addition to its other types. Activate only as a sorcery.",
+      "pt": "3/3"
+    }
+  },
+  {
+    "spec_id": "mineta_sticky_troublemaker",
+    "card_fields": {
+      "name": "Minoru Mineta, Sticky Troublemaker",
+      "cost": "{B}",
+      "type": "Legendary Creature | Human Student",
+      "rarity": "common",
+      "color_identity": "B",
+      "text": "{2}{B}, {T}: Target creature with power 2 or less can't be blocked this turn.",
+      "pt": "1/1"
+    }
+  },
+  {
+    "spec_id": "hanta_sero_tape_shooter",
+    "card_fields": {
+      "name": "Hanta Sero, Tape Shooter",
+      "cost": "{1}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "common",
+      "color_identity": "W",
+      "text": "At the beginning of your end step, if a creature entered the battlefield under your control this turn, put a +1/+1 counter on it.\\n{W}, Remove a +1/+1 counter from a creature you control: Move a +1/+1 counter from target creature onto another target creature.",
+      "pt": "1/1"
+    }
+  },
+  {
+    "spec_id": "kendou_big_fist_captain",
+    "card_fields": {
+      "name": "Itsuka Kendou, Big Fist Captain",
+      "cost": "{2}{G}{W}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "Whenever you attack, put a +1/+1 counter on target creature you control. Until end of turn, that creature gains \"When this creature dies, you gain 1 life.\"",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "shinso_brainwashing_apprentice",
+    "card_fields": {
+      "name": "Hitoshi Shinso, Brainwashing Apprentice",
+      "cost": "{2}{U}{B}",
+      "type": "Legendary Creature | Human Warlock",
+      "rarity": "rare",
+      "color_identity": "BU",
+      "text": "At the beginning of your upkeep, each opponent mills X cards, where X is the number of creatures you control with power 2 or less.\\nWhenever one or more creatures you control with power 2 or less deal combat damage to a player, draw a card.\\nWhen Hitoshi Shinso dies, create a 2/2 blue and black Spirit creature token with flying.",
+      "pt": "2/2"
+    }
+  },
+  {
+    "spec_id": "la_brava_devotion_hack",
+    "card_fields": {
+      "name": "La Brava's Devotion Hack",
+      "cost": "{1}{R}{U}",
+      "type": "Instant",
+      "rarity": "uncommon",
+      "color_identity": "RU",
+      "text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\\n• Target player draws two cards.\\n• Counter target spell unless its controller pays {2}.\\n• Double target creature's power until end of turn."
+    }
+  },
+  {
+    "spec_id": "twice_double_trouble",
+    "card_fields": {
+      "name": "Twice, Double Trouble",
+      "cost": "{1}{B}{R}",
+      "type": "Legendary Creature | Human Villain",
+      "rarity": "rare",
+      "color_identity": "BR",
+      "text": "Double strike, menace\\nWhen Twice, Double Trouble enters, it deals X damage to target opponent, where X is the number of Villains you control.",
+      "pt": "2/3"
+    }
+  },
+  {
+    "spec_id": "gigantomachia_loyal_titan",
+    "card_fields": {
+      "name": "Gigantomachia, Loyal Titan",
+      "cost": "{5}{G}{B}",
+      "type": "Legendary Creature | Giant Villain",
+      "rarity": "mythic",
+      "color_identity": "BG",
+      "text": "Trample\\nWhenever Gigantomachia attacks, mill four cards. Then return each creature card with mana value 3 or less from your graveyard to the battlefield tapped.\\nIf a creature you control with power 4 or greater would die, exile it instead.",
+      "pt": "7/7"
+    }
+  },
+  {
+    "spec_id": "high_end_nomu_strike",
+    "card_fields": {
+      "name": "High-End Nomu Strike",
+      "cost": "{3}{B}{R}",
+      "type": "Sorcery",
+      "rarity": "uncommon",
+      "color_identity": "BR",
+      "text": "Choose one or both —\\n• Target creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.\\n• Exile the top card of your library. You may play it this turn."
+    }
+  },
+  {
+    "spec_id": "ua_dormitory_bonds",
+    "card_fields": {
+      "name": "U.A. Dormitory Bonds",
+      "cost": "{1}{W}{G}",
+      "type": "Enchantment",
+      "rarity": "common",
+      "color_identity": "GW",
+      "text": "Whenever one or more creatures you control attack, put a +1/+1 counter on target creature you control."
+    }
+  },
+  {
+    "spec_id": "float_aerial_control",
+    "card_fields": {
+      "name": "Float, Aerial Control",
+      "cost": "{1}{W}{U}",
+      "type": "Sorcery | Quirk Technique",
+      "rarity": "uncommon",
+      "color_identity": "UW",
+      "text": "Creatures you control gain flying until end of turn.\\n When you cast this spell, if you've cast another spell this turn, draw a card."
+    },
+    "problems": "It had <|endoftext|> tags inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  },
+  {
+    "spec_id": "midnight_r_rated_hero",
+    "card_fields": {
+      "name": "Midnight, R-Rated Hero",
+      "cost": "{1}{U}{B}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "BU",
+      "text": "Menace\\nIf a spell or ability you control causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "mount_lady_gigantification",
+    "card_fields": {
+      "name": "Mount Lady, Gigantification Star",
+      "cost": "{3}{W}{R}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "RW",
+      "text": "Vigilance\\nWhen Mount Lady enters, mill a card. Then return up to one target creature or planeswalker card from your graveyard to your hand.\\nWhenever you attack with one or more creatures with power 3 or greater, put a +1/+1 counter on Mount Lady.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "fatgum_absorption_mode",
+    "card_fields": {
+      "name": "Fatgum, Absorption Mode",
+      "cost": "{2}{W}{G}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "Whenever you attack, if defending player controls a creature with power 4 or greater, you may put a land card from your hand onto the battlefield tapped. If a land card is put onto the battlefield this way, create a 3/3 green Plant creature token.",
+      "pt": "4/4"
+    }
+  },
+  {
+    "spec_id": "kuroiro_darkness_merge",
+    "card_fields": {
+      "name": "Shihai Kuroiro, Darkness Merge",
+      "cost": "{1}{B}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "common",
+      "color_identity": "B",
+      "text": "When Shihai Kuroiro enters, target opponent loses 1 life and you gain 1 life.\\n{B}, Sacrifice a creature: Draw a card.",
+      "pt": "1/4"
+    }
+  },
+  {
+    "spec_id": "ua_training_arc",
+    "card_fields": {
+      "name": "U.A. Training Arc",
+      "cost": "{2}{W}{G}",
+      "type": "Enchantment — Saga",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\\nI — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\\nII — Put a +1/+1 counter on each creature you control.\\nIII — You gain 2 life for each land you control."
+    }
+  },
+  {
+    "spec_id": "beast_hero_wild_walrus",
+    "card_fields": {
+      "name": "Wild Walrus, Beast Hero",
+      "cost": "{3}{G}{U}",
+      "type": "Legendary Creature | Beast Hero",
+      "rarity": "rare",
+      "color_identity": "GU",
+      "text": "Vigilance, ward {2}\\nWild Walrus enters with a number of +1/+1 counters on it equal to the greatest toughness among creatures you control.\\nWhenever one or more +1/+1 counters are put on Wild Walrus, draw a card.",
+      "pt": "0/0"
+    }
+  },
+  {
+    "spec_id": "best_jeanist_fiber_master",
+    "card_fields": {
+      "name": "Best Jeanist, Fiber Master",
+      "cost": "{2}{U}{W}",
+      "type": "Legendary Creature | Human Pro Hero",
+      "rarity": "rare",
+      "color_identity": "UW",
+      "text": "When Best Jeanist enters, you become the monarch.\\nWhenever you're the monarch, you may tap or untap target artifact or creature.\\nPartner (You can have two commanders if both have partner.)",
+      "pt": "2/4"
+    }
+  },
+  {
+    "spec_id": "koda_animal_communicator",
+    "card_fields": {
+      "name": "Koji Koda, Animal Communicator",
+      "cost": "{2}{G}",
+      "type": "Legendary Creature | Human Hero",
+      "rarity": "common",
+      "color_identity": "G",
+      "text": "Whenever another creature you control enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\\nWhenever you sacrifice a Food, you may put a +1/+1 counter on target creature.\nWhen this card is put into your graveyard from your library, shuffle your graveyard into your library.",
+      "pt": "3/2"
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "class_1a_team_up",
+    "card_fields": {
+      "name": "Class 1-A Team-Up",
+      "cost": "{3}{W}{G}",
+      "type": "Sorcery | Heroic Rally",
+      "rarity": "rare",
+      "color_identity": "GW",
+      "text": "Create a 1/1 green and white Citizen creature token. Put a +1/+1 counter on each creature token you control.\n"
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "league_of_villains_hideout_land",
+    "card_fields": {
+      "name": "League of Villains Hideout",
+      "cost": "",
+      "type": "Land | Villain Lair",
+      "rarity": "uncommon",
+      "color_identity": "B",
+      "text": "This land enters tapped.\\n{T}: Add {B}."
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "ua_high_school_campus_land",
+    "card_fields": {
+      "name": "U.A. High School, Hero Academy Campus",
+      "cost": "",
+      "type": "Land | U.A. Campus",
+      "rarity": "rare",
+      "color_identity": "",
+      "text": "{T}: Add {C}.\\n{3}, {T}: Add one mana of any color."
+    }
+  },
+  {
+    "spec_id": "musutafu_city_center_land",
+    "card_fields": {
+      "name": "Musutafu City Center",
+      "cost": "",
+      "type": "Land | City",
+      "rarity": "uncommon",
+      "color_identity": "",
+      "text": "{T}: Add {C}.\\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell or activate an ability of a legendary source."
+    }
+  },
+  {
+    "spec_id": "dagobah_beach_land",
+    "card_fields": {
+      "name": "Dagobah Beach Training Grounds",
+      "cost": "",
+      "type": "Land | Beach",
+      "rarity": "common",
+      "color_identity": "",
+      "text": "This land enters tapped.\\nWhen this land enters, choose up to one —\\n• Put a +1/+1 counter on target creature.\\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    }
+  },
+  {
+    "spec_id": "tartarus_prison_land",
+    "card_fields": {
+      "name": "Tartarus Maximum Security Prison",
+      "cost": "",
+      "type": "Land | Fortress",
+      "rarity": "rare",
+      "color_identity": "",
+      "text": "As this land enters, choose a creature type.\\n{T}: Add {C}.\\n{T}: Add one mana of any color. Spend this mana only to cast a spell of the chosen type or activate an ability of a creature of the chosen type."
+    }
+  },
+  {
+    "spec_id": "hosu_city_alleys_land",
+    "card_fields": {
+      "name": "Hosu City Back Alleys",
+      "cost": "",
+      "type": "Land | Alley",
+      "rarity": "uncommon",
+      "color_identity": "B",
+      "text": "This land enters tapped.\\n{T}: Add {B}.\\n{T}, Pay 1 life: Add {B}{B}.\\n{T}, Pay 2 life: Add {B}{B}{B}.\\n{T}, Pay 3 life: Add {B}{B}{B}{B}."
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "kyushu_forest_land",
+    "card_fields": {
+      "name": "Kyushu Training Forest",
+      "cost": "",
+      "type": "Land | Forest",
+      "rarity": "common",
+      "color_identity": "G",
+      "text": "This land enters tapped.\\nWhen this land enters, target creature you control gets +1/+1 until end of turn.\\n{T}: Add {G}.\\n{G}{G}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    }
+  },
+  {
+    "spec_id": "usj_disaster_zone_land",
+    "card_fields": {
+      "name": "U.S.J., Disaster Zone",
+      "cost": "",
+      "type": "Land | Training Zone",
+      "rarity": "rare",
+      "color_identity": "",
+      "text": "You have no maximum hand size.\\n{T}: Add {C}.\\n{T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery."
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "endeavor_agency_rooftop_land",
+    "card_fields": {
+      "name": "Endeavor Agency Rooftop",
+      "cost": "",
+      "type": "Land | Facility",
+      "rarity": "uncommon",
+      "color_identity": "R",
+      "text": "{T}: Add {R}.\\n{1}{R}, {T}: Add {R}{R}{R}."
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "gunga_mountain_villa_land",
+    "card_fields": {
+      "name": "Gunga Mountain Villa",
+      "cost": "",
+      "type": "Land | Hideout",
+      "rarity": "rare",
+      "color_identity": "GRU",
+      "text": "{T}: Add {G}, {U}, or {R}.\\n{4}{G}{U}{R}: Create a token that's a copy of target creature you control, except it's a 3/3 green Beast creature in addition to its other types and it has trample and \"Whenever this token deals combat damage to a player, draw a card.\" Activate only as a sorcery."
+    }
+  },
+  {
+    "spec_id": "central_plaza_muscle_festival_land",
+    "card_fields": {
+      "name": "U.A. Sports Festival Plaza",
+      "cost": "",
+      "type": "Land | Arena",
+      "rarity": "uncommon",
+      "color_identity": "",
+      "text": "{T}: Add {C}.\\n{3}, {T}: Until end of turn, target creature can't attack you or planeswalkers you control unless its controller pays {2} for each of those creatures."
+    }
+  },
+  {
+    "spec_id": "shie_hassaikai_corridors_land",
+    "card_fields": {
+      "name": "Shie Hassaikai Corridors",
+      "cost": "",
+      "type": "Land | Dungeon",
+      "rarity": "uncommon",
+      "color_identity": "",
+      "text": "{T}: Add {C}.\\n{2}, {T}: Untap target artifact or creature."
+    }
+  },
+  {
+    "spec_id": "support_course_gauntlets_artifact",
+    "card_fields": {
+      "name": "Hatsume's Support Gauntlets",
+      "cost": "",
+      "type": "Artifact | Equipment",
+      "rarity": "uncommon",
+      "color_identity": "",
+      "text": "At the beginning of combat on your turn, attach up to one target Equipment you control to target creature you control.\\nEquipped creature gets +1/+0 and has ward {1}.\\nEquip {2}"
+    }
+  },
+  {
+    "spec_id": "all_might_statue_artifact",
+    "card_fields": {
+      "name": "Statue of the Symbol of Peace",
+      "cost": "",
+      "type": "Artifact | Monument",
+      "rarity": "rare",
+      "color_identity": "",
+      "text": "{T}: Choose a player. Each player draws a card for each creature they control with power 1 or less. Activate only as a sorcery."
+    }
+  },
+  {
+    "spec_id": "fiber_master_threads_artifact",
+    "card_fields": {
+      "name": "Fiber-Master Reinforced Threads",
+      "cost": "",
+      "type": "Artifact",
+      "rarity": "uncommon",
+      "color_identity": "",
+      "text": "{T}: Target creature gets +1/+1 or -1/+1 until end of turn. Activate only once each turn. ({T} can be paid with one mana from a colorless source.)\n"
+    },
+    "problems":"It had two <|endoftext|> tags inside 'text'",
+    "fixes":"I removed the <|endoftext|> tags inside the 'text' field"
+  },
+  {
+    "spec_id": "voice_amp_megaphone_artifact",
+    "card_fields": {
+      "name": "Voice-Boost Megaphone",
+      "cost": "",
+      "type": "Artifact",
+      "rarity": "common",
+      "color_identity": "",
+      "text": "When this artifact enters, you get {E}{E}{E}{E} (three energy counters).\\n{T}: Add {E}.\\n{E}{E}, {T}: Tap target creature.\n"
+    },
+    "problems": "It had a <|endoftext|> tag inside 'text'",
+    "fixes": "I removed the <|endoftext|> tag inside the 'text' field"
+  }
+
+]
